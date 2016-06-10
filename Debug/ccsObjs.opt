@@ -1,0 +1,1 @@
+"./main.obj" "./bmpconfig.obj" "../C665x.cmd" -l../Library/dsplib.ae66 -l../Library/mathlib.ae66 -l../Library/imglib.ae66 -l"libc.a" 
